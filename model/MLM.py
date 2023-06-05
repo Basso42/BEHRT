@@ -61,6 +61,9 @@ class BertEmbeddings(nn.Module):
 
         return torch.tensor(lookup_table)
 
+"""
+Je n'ai pas compris le passage qui suit
+"""
 
 class BertModel(Bert.modeling.BertPreTrainedModel):
     def __init__(self, config):

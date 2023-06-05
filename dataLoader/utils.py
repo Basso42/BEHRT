@@ -68,7 +68,7 @@ def position_idx(tokens, symbol='SEP'):
             pos.append(flag)
     return pos
 
-
+#On pad toutes les séquences trop courtes (ajout de ['PAD] à la fin des séquences pour matcher la bonne longueur)
 def seq_padding(tokens, max_len, token2idx=None, symbol=None, unkown=True):
     if symbol is None:
         symbol = 'PAD'

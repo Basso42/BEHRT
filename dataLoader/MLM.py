@@ -3,7 +3,7 @@ import numpy as np
 from dataLoader.utils import seq_padding,position_idx,index_seg,random_mask
 import torch
 
-
+#crée la classe pour préparer les données en finetuning
 class MLMLoader(Dataset):
     def __init__(self, dataframe, token2idx, age2idx, max_len, code='code', age='age'):
         self.vocab = token2idx
