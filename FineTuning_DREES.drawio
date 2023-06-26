@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T14:09:35.864Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="SAJcDlHF3G_pdcnGrof_" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T14:11:42.927Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="koekDQ5xD_qKFZaf5t70" version="21.5.0" type="github">
   <diagram name="Page-1" id="iJaSMaVpHQGALXnixF5b">
     <mxGraphModel dx="1262" dy="2502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -406,8 +406,8 @@
         <mxCell id="U0XQma4ryhpkUwMsfx8T-83" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="3980" y="605.75" width="170" height="64.25" as="geometry" />
         </mxCell>
-        <mxCell id="U0XQma4ryhpkUwMsfx8T-86" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Visits that we won&#39;t give to the model&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="4160" y="622.88" width="330" height="30" as="geometry" />
+        <mxCell id="U0XQma4ryhpkUwMsfx8T-86" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Visits that we won&#39;t give to the model&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="622.88" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
