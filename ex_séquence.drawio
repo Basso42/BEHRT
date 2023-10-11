@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T02:29:40.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="ZamW56C0P0-94mCDXyJj" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T02:31:02.858Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="B9CjxXO7OXiivKQTqVTk" version="22.0.0" type="github">
   <diagram name="Page-1" id="4F-CxtZxwAVtAaBu6MW3">
-    <mxGraphModel dx="113" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="1640" y="820" width="1065" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="r7YeVfHPNkTqQem7HZXz-27" value="&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;Exemple de séquence d&#39;un nouveau né&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontFamily=Garamond;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="750" width="530" height="50" as="geometry" />
+          <mxGeometry x="1908" y="750" width="530" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r7YeVfHPNkTqQem7HZXz-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
