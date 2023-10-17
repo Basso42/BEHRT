@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T02:56:52.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="V9PrDpgeY7kAyOBxIkCA" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T02:57:59.710Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="fd9gobh-LtfgDHoKTh9A" version="22.0.4" type="github">
   <diagram name="Page-1" id="s_K_Jd9jlDhBgt5PAwLs">
-    <mxGraphModel dx="1682" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1397" dy="1533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,13 +224,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6ZO2udJJN-d9VZEAZGv4-40" value="&lt;h1&gt;Le mécanisme de self-attention &lt;br&gt;&lt;/h1&gt;&lt;p align=&quot;center&quot; style=&quot;font-size: 19px;&quot;&gt;Calcul de l&#39;unité d&#39;attention pour le 1&lt;sup&gt;er&lt;/sup&gt; token&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-175" y="-139" width="380" height="120" as="geometry" />
+          <mxGeometry x="-175" y="-130" width="380" height="101" as="geometry" />
         </mxCell>
         <mxCell id="6ZO2udJJN-d9VZEAZGv4-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Division des scores par dim(Key&lt;sub style=&quot;font-size: 13px;&quot;&gt;i&lt;/sub&gt;)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="90" width="130" height="30" as="geometry" />
+          <mxGeometry x="-310" y="95" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6ZO2udJJN-d9VZEAZGv4-44" value="&lt;div style=&quot;font-size: 11px;&quot; align=&quot;center&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Bold700&quot; face=&quot;Bold700&quot;&gt;&lt;i&gt;&lt;font size=&quot;1&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;produit scalaire&lt;/font&gt;&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="55" height="30" as="geometry" />
+          <mxGeometry x="200" y="195" width="55" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
