@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.2">
   <diagram name="Page-1" id="4F-CxtZxwAVtAaBu6MW3">
-    <mxGraphModel dx="-99" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-366" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,14 +92,14 @@
           <mxGeometry x="2530" y="1005" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r7YeVfHPNkTqQem7HZXz-64" value="&lt;h1&gt;&lt;font&gt;&amp;nbsp;&lt;font&gt;&lt;font&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;« Hypovolémie »&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2204" y="1030" width="206" height="30" as="geometry" />
+          <mxGeometry x="2204" y="1031" width="206" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r7YeVfHPNkTqQem7HZXz-65" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2280" y="926" as="sourcePoint" />
-            <mxPoint x="2310" y="1020" as="targetPoint" />
+            <mxPoint x="2270" y="919" as="sourcePoint" />
+            <mxPoint x="2307.511363636364" y="1036" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2310" y="970" />
+              <mxPoint x="2310" y="963" />
             </Array>
           </mxGeometry>
         </mxCell>
