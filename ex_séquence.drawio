@@ -7,10 +7,10 @@
         <mxCell id="r7YeVfHPNkTqQem7HZXz-27" value="&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontFamily=Arial;" parent="1" vertex="1">
           <mxGeometry x="2220" y="750" width="20" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r7YeVfHPNkTqQem7HZXz-30" value="&lt;font&gt;&amp;nbsp;« Enfant né vivant »&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#747e84, #ededed);fontSize=22;fontFamily=Arial;" parent="1" vertex="1">
-          <mxGeometry x="1722" y="720" width="220" height="40" as="geometry" />
+        <mxCell id="r7YeVfHPNkTqQem7HZXz-30" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&amp;nbsp;« Enfant né vivant »&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#747e84, #ededed);fontSize=22;fontFamily=Arial;" parent="1" vertex="1">
+          <mxGeometry x="1717" y="720" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r7YeVfHPNkTqQem7HZXz-35" value="&lt;h1&gt;&lt;font&gt;&lt;span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;« Maladie hémolytique du foetus et du nouveau-né »&lt;/span&gt;&lt;/span&gt;&lt;font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=light-dark(#747e84, #ededed);fontFamily=Arial;" parent="1" vertex="1">
+        <mxCell id="r7YeVfHPNkTqQem7HZXz-35" value="&lt;h1&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;« Maladie hémolytique du foetus et du nouveau-né »&lt;/span&gt;&lt;/span&gt;&lt;font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=light-dark(#747e84, #ededed);fontFamily=Arial;" parent="1" vertex="1">
           <mxGeometry x="1825" y="1049" width="285" height="48" as="geometry" />
         </mxCell>
         <mxCell id="r7YeVfHPNkTqQem7HZXz-37" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=light-dark(#8e9495, #ededed);fontFamily=Arial;" parent="1" edge="1">
@@ -23,7 +23,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r7YeVfHPNkTqQem7HZXz-48" value="&lt;font&gt;&lt;font&gt;Token indiquant le début de la séquence&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontFamily=Arial;" parent="1" vertex="1">
+        <mxCell id="r7YeVfHPNkTqQem7HZXz-48" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;font&gt;Token indiquant le début de la séquence&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontFamily=Arial;" parent="1" vertex="1">
           <mxGeometry x="1627.82" y="1000" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r7YeVfHPNkTqQem7HZXz-54" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=-90;strokeColor=light-dark(#8e9495, #ededed);fontFamily=Arial;" parent="1" vertex="1">
@@ -68,7 +68,7 @@
         <mxCell id="r7YeVfHPNkTqQem7HZXz-59" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=north;strokeColor=light-dark(#8e9495, #ededed);fontFamily=Arial;" parent="1" vertex="1">
           <mxGeometry x="2158.5" y="924" width="16" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r7YeVfHPNkTqQem7HZXz-64" value="&lt;h1&gt;&lt;font&gt;&amp;nbsp;&lt;font&gt;&lt;font&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;« Hypovolémie »&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=light-dark(#747e84, #ededed);fontFamily=Arial;" parent="1" vertex="1">
+        <mxCell id="r7YeVfHPNkTqQem7HZXz-64" value="&lt;h1&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&amp;nbsp;&lt;font&gt;&lt;font&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;« Hypovolémie »&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=light-dark(#747e84, #ededed);fontFamily=Arial;" parent="1" vertex="1">
           <mxGeometry x="2220" y="1030" width="206" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r7YeVfHPNkTqQem7HZXz-65" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=light-dark(#8e9495, #ededed);fontFamily=Arial;" parent="1" edge="1">
@@ -114,11 +114,11 @@
             <mxPoint x="2670" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yqGZo9LkGYmuH6p14GC-13" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;font&gt;1 Mois&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;font&gt;6 Mois&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;font&gt;Pas d&#39;admission&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;font&gt;Décès&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontFamily=Arial;" parent="1" vertex="1">
-          <mxGeometry x="2506" y="740" width="198" height="80" as="geometry" />
+        <mxCell id="5yqGZo9LkGYmuH6p14GC-13" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;font&gt;1 Mois&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;font&gt;6 Mois&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;font&gt;Pas d&#39;admission&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;font&gt;Décès&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Arial;" parent="1" vertex="1">
+          <mxGeometry x="2494" y="733" width="225" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5yqGZo9LkGYmuH6p14GC-14" value="&lt;b&gt;&lt;font&gt;?&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=51;fontColor=light-dark(#a65bc4, #ededed);fontFamily=Arial;" parent="1" vertex="1">
-          <mxGeometry x="2696" y="748" width="50" height="70" as="geometry" />
+        <mxCell id="5yqGZo9LkGYmuH6p14GC-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;font&gt;?&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=51;fontColor=light-dark(#a65bc4, #ededed);fontFamily=Arial;" parent="1" vertex="1">
+          <mxGeometry x="2700" y="739" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5yqGZo9LkGYmuH6p14GC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Arial;" parent="1" source="5yqGZo9LkGYmuH6p14GC-3" target="5yqGZo9LkGYmuH6p14GC-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
